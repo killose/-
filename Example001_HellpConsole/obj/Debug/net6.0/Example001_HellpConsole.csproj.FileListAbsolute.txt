@@ -1,0 +1,15 @@
+C:\Users\NigaNee\MyProject\Знакомство с языком программирования C#\Example001_HellpConsole\bin\Debug\net6.0\Example001_HellpConsole.exe
+C:\Users\NigaNee\MyProject\Знакомство с языком программирования C#\Example001_HellpConsole\bin\Debug\net6.0\Example001_HellpConsole.deps.json
+C:\Users\NigaNee\MyProject\Знакомство с языком программирования C#\Example001_HellpConsole\bin\Debug\net6.0\Example001_HellpConsole.runtimeconfig.json
+C:\Users\NigaNee\MyProject\Знакомство с языком программирования C#\Example001_HellpConsole\bin\Debug\net6.0\Example001_HellpConsole.dll
+C:\Users\NigaNee\MyProject\Знакомство с языком программирования C#\Example001_HellpConsole\bin\Debug\net6.0\Example001_HellpConsole.pdb
+C:\Users\NigaNee\MyProject\Знакомство с языком программирования C#\Example001_HellpConsole\obj\Debug\net6.0\Example001_HellpConsole.csproj.AssemblyReference.cache
+C:\Users\NigaNee\MyProject\Знакомство с языком программирования C#\Example001_HellpConsole\obj\Debug\net6.0\Example001_HellpConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NigaNee\MyProject\Знакомство с языком программирования C#\Example001_HellpConsole\obj\Debug\net6.0\Example001_HellpConsole.AssemblyInfoInputs.cache
+C:\Users\NigaNee\MyProject\Знакомство с языком программирования C#\Example001_HellpConsole\obj\Debug\net6.0\Example001_HellpConsole.AssemblyInfo.cs
+C:\Users\NigaNee\MyProject\Знакомство с языком программирования C#\Example001_HellpConsole\obj\Debug\net6.0\Example001_HellpConsole.csproj.CoreCompileInputs.cache
+C:\Users\NigaNee\MyProject\Знакомство с языком программирования C#\Example001_HellpConsole\obj\Debug\net6.0\Example001_HellpConsole.dll
+C:\Users\NigaNee\MyProject\Знакомство с языком программирования C#\Example001_HellpConsole\obj\Debug\net6.0\refint\Example001_HellpConsole.dll
+C:\Users\NigaNee\MyProject\Знакомство с языком программирования C#\Example001_HellpConsole\obj\Debug\net6.0\Example001_HellpConsole.pdb
+C:\Users\NigaNee\MyProject\Знакомство с языком программирования C#\Example001_HellpConsole\obj\Debug\net6.0\Example001_HellpConsole.genruntimeconfig.cache
+C:\Users\NigaNee\MyProject\Знакомство с языком программирования C#\Example001_HellpConsole\obj\Debug\net6.0\ref\Example001_HellpConsole.dll
